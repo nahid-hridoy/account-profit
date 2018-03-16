@@ -1,0 +1,441 @@
+/* Full HD Layout: 1920px. */
+@media only screen and (min-width: 1601px) and (max-width: 2500px) { 
+    .logo img {
+        max-width: 165px;
+        max-height: 38px;
+    }
+    .logo a {
+        padding: 28px 0px;
+    }
+    .main-menu ul li a {
+        font-size: 16px;
+        padding: 33px 30px;
+    }
+    .free-consultation {
+        font-size: 15px;
+        line-height: 27px;
+    }
+    .single-service-box img {
+        max-height: 95px;
+    }
+    .single-service-box p {
+        width: 66%;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .single-service-box {
+        height: 220px;
+    }
+    .about-area h3 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .about-details {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .single-feature-points img {
+        max-height: 32px;
+        top: 3px;
+    }
+    .single-feature-points {
+        font-size: 23px;
+        margin-bottom: 80px;
+    }
+    .about-feature-points {
+        margin-top: 70px;
+        padding-left: 6%;
+    }
+    .client-logo-area h3 {
+        font-size: 24px;
+    }
+    .logo-item-inner img {
+        max-width: 110px;
+    }
+    .client-logo-inner img {
+        max-height: 380px;
+        min-height: 265px;
+    }
+    .client-details, .tab-details {
+        font-size: 18px;
+        line-height: 27px;
+    }
+    .client-logo-inner {
+        height: 390px;
+    }
+    .faq-tab ul li a {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .contact-area input, .contact-area textarea {
+        font-size: 20px;
+    }
+    .contact-area textarea {
+        height: 215px;
+    }
+    .footer-info {
+        font-size: 17px;
+    }
+    .social-icon a {
+        font-size: 20px;
+    }
+    .about-area h3.about-page-heading {
+        font-size: 30px;
+    }
+    .service-page-heading h3 {
+        font-size: 30px;
+    }
+    .about-feature-points.single-service-feature-points .single-feature-points img {
+        max-height: 30px;
+        top: -1px;
+    }
+    .about-feature-points.single-service-feature-points .single-feature-points {
+        font-size: 18px;
+        margin-bottom: 25px;
+    }
+    .ask-question-btn {
+        padding: 7px 50px 10px;
+        font-size: 15px;
+    }
+    .service-area.service-page-service-list .single-service-box p {
+        width: 64%;
+    }
+    
+    .top-text-1 {
+        font-size: 17px;
+    }
+    .top-text-2 {
+        font-size: 16px;
+    }
+    .phone-no-text {
+        font-size: 26px;
+    }
+    .time-text, .email-heading {
+        font-size: 17px;
+    }
+    .googleMap3 {
+        height: 622px;
+        width: 184%;
+        margin-left: -87%;
+    }
+  
+}
+
+/* Medium Layout(iPad Pro): 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+    .googleMap3 {
+        height: 591px;
+        background-color: #193679;
+        width: 120%;
+        margin-left: -20%;
+    }
+    .main-menu ul li a {
+        padding: 30px 19px;
+    }
+    .free-consultation {
+        font-size: 13px;
+    }
+    .social-icon a:nth-child(4n) {
+        margin-right: 0;
+    }
+    .single-service-box p {
+        width: 63%;
+    }
+    .single-service-box {
+        height: 170px;
+    }
+    .logo img {
+        max-height: 30px;
+    }
+    .logo a {
+        padding: 28px 0px;
+    }
+    .service-area.service-page-service-list .single-service-box p {
+        width: 60%;
+    }
+    .service-area.service-page-service-list .single-service-box {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+    .service-area .col-md-4:nth-child(3n) {
+        border-right: none;
+    }
+    .service-area .col-md-4:nth-child(2n) {
+        border-right: 2px solid #f0efef;
+    }
+    .single-service-box p {
+        width: 66%;
+    }
+    .about-feature-points {
+        padding-left: 0;
+    }
+    .about-details {
+        text-align: justify;
+    }
+    .logo-item-inner img {
+        max-height: 165px;
+    }
+    .thin-icon {
+        background-size: 38%;
+    }
+    .logo-carousel .owl-nav div {
+        left: -25px;
+    }
+    .logo-carousel .owl-nav div.owl-next {
+        right: -25px;
+    }
+    
+    .client-details {
+        margin-left: 0;
+        padding: 0 20px;
+    }
+    .faq-area{
+        display: none;
+    }
+    .mobile-styled-faq {
+        display: block;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .mobile-styled-faq .panel-default > .panel-heading {
+        background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+        border: medium none;
+        border-radius: 0;
+        padding: 0;
+    }
+    .mobile-styled-faq .panel .panel-collapse .panel-body {
+        border: medium none;
+        color: #777;
+        font-weight: 300;
+        font-size: 16px;
+    }
+    .mobile-styled-faq .panel-group .panel {
+        border-radius: 2px;
+        box-shadow: 0 0 0;
+        margin-bottom: 13px;
+    }
+    .mobile-styled-faq .panel .panel-heading h4 a {
+        display: block;
+        padding: 13px;
+        position: relative;
+        text-decoration: none;
+        color: #2f2f2f;
+        font-weight: 400;
+        font-size: 17px;
+    }
+    .contact-area textarea {
+        margin-bottom: 20px;
+    }
+    .contact-area input[type=submit] {
+        width: 100%;
+        padding: 25px;
+    }
+    .social-icon a:nth-child(4n) {
+        margin-right: 0;
+    }
+
+    .service-area.service-page-service-list {
+        margin-bottom: 40px;
+    }
+    .service-area.service-page-service-list .col-md-12:nth-child(2n+1) .single-service-box {
+        border-right: none;
+    }
+    .googleMap3 {
+        height: 750px;
+        width: 106%;
+        margin-left: -3%;
+    }
+    .header-area {
+        display: none;
+    }
+    
+    .menu-trigger {
+        display: inline-block;
+        padding: 20px 0;
+        cursor: pointer;
+    }
+    .logo.mobile-logo a {
+        padding: 15px 0px;
+    }
+    .mobile-telephone-btn {
+        display: inline-block;
+        padding: 17px 0;
+    }
+
+    .mobile-header-area {
+        display: block;
+        background: #224088;
+    }
+    .service-area.service-page-service-list .col-md-12:nth-child(2n+1) .single-service-box.service-details-category-box {
+        border-right: 2px solid #f0efef;
+    }
+    
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+    .section-padding {
+        padding: 30px 0;
+    }
+	.row-padding {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .single-service-box {
+        text-align: center;
+    }
+    .service-area .col-md-4:nth-child(3n) {
+        border-right: none;
+    }
+    .single-service-box img {
+        max-height: 60px;
+    }
+    .single-service-box p {
+        margin-left: 0;
+        margin-top: 10%;
+        width: 100%;
+    }
+    .about-area h3 {
+        font-size: 17px;
+        line-height: 25px;
+    }
+    .about-details {
+        text-align: justify;
+    }
+    .about-feature-points {
+        margin-top: 45px;
+        padding-left: 0;
+    }
+    .logo-carousel .owl-nav div {
+        left: -18px;
+    }
+    .logo-carousel .owl-nav div.owl-next {
+        right: -18px;
+    }
+    .client-logo-inner {
+        height: 240px;
+    }
+    .client-details {
+        margin-left: 0;
+        padding: 0 10px;
+    }
+    .faq-area{
+        display: none;
+    }
+    .mobile-styled-faq {
+        display: block;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .mobile-styled-faq .panel-default > .panel-heading {
+        background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+        border: medium none;
+        border-radius: 0;
+        padding: 0;
+    }
+    .mobile-styled-faq .panel .panel-collapse .panel-body {
+        border: medium none;
+        color: #777;
+        font-weight: 300;
+        font-size: 16px;
+    }
+    .mobile-styled-faq .panel-group .panel {
+        border-radius: 2px;
+        box-shadow: 0 0 0;
+        margin-bottom: 13px;
+    }
+    .mobile-styled-faq .panel .panel-heading h4 a {
+        display: block;
+        padding: 13px;
+        position: relative;
+        text-decoration: none;
+        color: #2f2f2f;
+        font-weight: 400;
+        font-size: 17px;
+    }
+    .contact-area textarea {
+        margin-bottom: 20px;
+    }
+    .contact-area input[type=submit] {
+        width: 100%;
+        padding: 25px;
+    }
+    .footer-area {
+        text-align: center;
+        padding: 40px 0;
+    }
+    .social-icon {
+        margin-top: 30px;
+        padding: 0 20px;
+    }
+    .social-icon a {
+        margin-left: 7.5px;
+        margin-right: 7.5px;
+    }
+    .social-icon a:nth-child(4n) {
+        margin-right: 7.5px;
+    }
+    .service-area.service-page-service-list .single-service-box p {
+        width: 100%;
+    }
+    .service-area.service-page-service-list {
+        margin-top: -30px;
+    }
+    .service-area.service-page-service-list .col-xs-6 {
+        display: table;
+    }
+    .service-area.service-page-service-list .single-service-box {
+        display: table-cell;
+        vertical-align: middle;
+        height: 230px;
+        border-right: none;
+        padding-top: 0;
+        padding-bottom: 0;
+        
+    }
+    .service-page-heading h3 {
+        font-size: 25px;
+        margin-top: 30px;
+    }
+    .contact-page-info-padding {
+        padding: 60px 20px 70px;
+    }
+    .googleMap3 {
+        height: 400px;
+        width: 108%;
+        margin-left: -4%;
+    }
+
+    .header-area {
+        display: none;
+    }
+    
+    .menu-trigger {
+        display: inline-block;
+        padding: 20px 0;
+        cursor: pointer;
+    }
+    .logo.mobile-logo a {
+        padding: 15px 0px;
+    }
+    .mobile-telephone-btn {
+        display: inline-block;
+        padding: 17px 0;
+    }
+
+    .mobile-header-area {
+        display: block;
+        background: #224088;
+    }
+    .service-area.service-page-service-list .col-md-12:nth-child(2n+1) .single-service-box.service-details-category-box {
+        border-right: 2px solid #f0efef;
+    }
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+}
